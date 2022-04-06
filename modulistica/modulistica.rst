@@ -13,7 +13,9 @@ In questa sezione è presente la modulistica relativa alla piattaforma ConciliaW
 Istanza di accreditamento
 ===========
 
-In questa sezione è presente la modulistica relativa alle istanze di accreditamento alla piattaforma ConciliaWeb:
+In questa sezione è presente la modulistica relativa alle istanze di accreditamento alla piattaforma ConciliaWeb. 
+Le istanze devono essere trasmesse all'indirizzo PEC dell'Autorità **agcom@cert.agcom.it**. 
+Nell'oggetto dell'email: **istanza di accreditamento ConciliaWeb**. 
 
 - `Istanza accreditamento per ente esponenziale <https://conciliaweb.agcom.it/conciliaweb/file/manuali/istanza_accreditamento_ente_esponenziale.pdf>`_
 - `Istanza accreditamento per associazione dei consumatori regionale <https://conciliaweb.agcom.it/conciliaweb/file/manuali/istanza_accreditamento_associazione_regionale.pdf>`_
