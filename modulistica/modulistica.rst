@@ -8,7 +8,6 @@ In questa sezione è presente la modulistica relativa alla piattaforma ConciliaW
 - `Mandato per associazione dei consumatori <https://conciliaweb.agcom.it/conciliaweb/file/mandato/4.pdf>`_
 - `Mandato per associazione dei consumatori regionale <https://conciliaweb.agcom.it/conciliaweb/file/mandato/8.pdf>`_
 - `Mandato per ente esponenziale <https://conciliaweb.agcom.it/conciliaweb/file/mandato/7.pdf>`_
-- `Procura per persona giuridica <https://conciliaweb.agcom.it/conciliaweb/file/manuali/procura_persone_giuridiche.pdf>`_
 
 Istanza di accreditamento
 ===========
